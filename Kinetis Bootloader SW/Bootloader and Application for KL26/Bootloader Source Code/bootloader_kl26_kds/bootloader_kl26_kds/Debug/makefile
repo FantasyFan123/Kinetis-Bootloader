@@ -53,7 +53,7 @@ all: bootloader_kl26_kds.elf secondary-outputs
 bootloader_kl26_kds.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Cross ARM C++ Linker'
-	arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "MKL26Z128xxx4_flash.ld" -Xlinker --gc-sections -L"C:/Users/b08277/Desktop/bootloader_kl26_kds/bootloader_kl26_kds/Project_Settings/Linker_Files" -Wl,-Map,"bootloader_kl26_kds.map" -specs=nano.specs -specs=nosys.specs -o "bootloader_kl26_kds.elf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "MKL26Z128xxx4_flash.ld" -Xlinker --gc-sections -L"C:/Users/B55335/Desktop/Kinetis-Bootloader-master/Kinetis Bootloader SW/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_kds/bootloader_kl26_kds/Project_Settings/Linker_Files" -Wl,-Map,"bootloader_kl26_kds.map" -specs=nano.specs -specs=nosys.specs -o "bootloader_kl26_kds.elf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 

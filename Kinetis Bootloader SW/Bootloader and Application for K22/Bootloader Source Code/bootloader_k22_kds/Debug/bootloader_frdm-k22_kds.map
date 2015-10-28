@@ -562,12 +562,12 @@ LOAD c:/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
 OUTPUT(bootloader_frdm-k22_kds.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x1dbe
+.debug_info     0x00000000     0x1e14
  .debug_info    0x00000000      0xdd7 ./Sources/bootloader.o
- .debug_info    0x00000dd7       0xa3 ./Project_Settings/Startup_Code/startup_MK22F51212.o
- .debug_info    0x00000e7a      0x5ed ./Project_Settings/Startup_Code/system_MK22F51212.o
- .debug_info    0x00001467      0x3b8 ./Driver/rs232/rs232.o
- .debug_info    0x0000181f      0x59f ./Driver/flash/flash_kinetis.o
+ .debug_info    0x00000dd7       0xf9 ./Project_Settings/Startup_Code/startup_MK22F51212.o
+ .debug_info    0x00000ed0      0x5ed ./Project_Settings/Startup_Code/system_MK22F51212.o
+ .debug_info    0x000014bd      0x3b8 ./Driver/rs232/rs232.o
+ .debug_info    0x00001875      0x59f ./Driver/flash/flash_kinetis.o
 
 .debug_abbrev   0x00000000      0x6bd
  .debug_abbrev  0x00000000      0x2e4 ./Sources/bootloader.o
@@ -629,15 +629,15 @@ OUTPUT(bootloader_frdm-k22_kds.elf elf32-littlearm)
  .debug_line    0x000006c2      0x275 ./Driver/rs232/rs232.o
  .debug_line    0x00000937      0x2c5 ./Driver/flash/flash_kinetis.o
 
-.debug_str      0x00000000    0x5fa9e
- .debug_str     0x00000000    0x5f734 ./Sources/bootloader.o
-                              0x5f8bb (size before relaxing)
- .debug_str     0x0005f734       0xe3 ./Project_Settings/Startup_Code/system_MK22F51212.o
-                              0x5ed68 (size before relaxing)
- .debug_str     0x0005f817       0x2d ./Driver/rs232/rs232.o
-                              0x5f491 (size before relaxing)
- .debug_str     0x0005f844      0x25a ./Driver/flash/flash_kinetis.o
-                              0x5f5f6 (size before relaxing)
+.debug_str      0x00000000    0x5faf4
+ .debug_str     0x00000000    0x5f78a ./Sources/bootloader.o
+                              0x5f911 (size before relaxing)
+ .debug_str     0x0005f78a       0xe3 ./Project_Settings/Startup_Code/system_MK22F51212.o
+                              0x5edbe (size before relaxing)
+ .debug_str     0x0005f86d       0x2d ./Driver/rs232/rs232.o
+                              0x5f4e7 (size before relaxing)
+ .debug_str     0x0005f89a      0x25a ./Driver/flash/flash_kinetis.o
+                              0x5f64c (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 ./Sources/bootloader.o

@@ -76,7 +76,7 @@ user_app_red_blink.elf: $(OBJS) $(USER_OBJS) ../Project_Settings/Linker_Files/MK
 user_app_red_blink.hex: user_app_red_blink.elf
 	@echo 'Executing target #8 $@'
 	@echo 'Invoking: ARM Ltd Windows GNU Create Flash Image'
-	"$(ARMSourceryDirEnv)/arm-none-eabi-objcopy"  -O srec user_app_red_blink.elf "user_app_red_blink.hex"
+	"$(ARMSourceryDirEnv)/arm-none-eabi-objcopy"  -O binary user_app_red_blink.elf "user_app_red_blink.hex"
 	@echo 'Finished building: $@'
 	@echo ' '
 

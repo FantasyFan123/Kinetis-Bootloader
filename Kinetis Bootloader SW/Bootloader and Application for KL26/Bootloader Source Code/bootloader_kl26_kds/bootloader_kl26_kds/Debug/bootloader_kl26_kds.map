@@ -520,12 +520,12 @@ LOAD c:/freescale/kds_3.0.0/toolchain/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
 OUTPUT(bootloader_kl26_kds.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x15f0
+.debug_info     0x00000000     0x165b
  .debug_info    0x00000000      0xab0 ./Sources/bootloader.o
- .debug_info    0x00000ab0       0xa1 ./Project_Settings/Startup_Code/startup_MKL26Z4.o
- .debug_info    0x00000b51      0x42b ./Project_Settings/Startup_Code/system_MKL26Z4.o
- .debug_info    0x00000f7c      0x1be ./Driver/rs232/rs232.o
- .debug_info    0x0000113a      0x4b6 ./Driver/flash/flash_kinetis.o
+ .debug_info    0x00000ab0      0x10c ./Project_Settings/Startup_Code/startup_MKL26Z4.o
+ .debug_info    0x00000bbc      0x42b ./Project_Settings/Startup_Code/system_MKL26Z4.o
+ .debug_info    0x00000fe7      0x1be ./Driver/rs232/rs232.o
+ .debug_info    0x000011a5      0x4b6 ./Driver/flash/flash_kinetis.o
 
 .debug_abbrev   0x00000000      0x5c0
  .debug_abbrev  0x00000000      0x25f ./Sources/bootloader.o
@@ -580,15 +580,15 @@ OUTPUT(bootloader_kl26_kds.elf elf32-littlearm)
  .debug_line    0x0000068b      0x250 ./Driver/rs232/rs232.o
  .debug_line    0x000008db      0x2a7 ./Driver/flash/flash_kinetis.o
 
-.debug_str      0x00000000    0x3633e
- .debug_str     0x00000000    0x35fb7 ./Sources/bootloader.o
-                              0x363d2 (size before relaxing)
- .debug_str     0x00035fb7       0x82 ./Project_Settings/Startup_Code/system_MKL26Z4.o
-                              0x359bc (size before relaxing)
- .debug_str     0x00036039       0x60 ./Driver/rs232/rs232.o
-                              0x3604b (size before relaxing)
- .debug_str     0x00036099      0x2a5 ./Driver/flash/flash_kinetis.o
-                              0x362b4 (size before relaxing)
+.debug_str      0x00000000    0x363a9
+ .debug_str     0x00000000    0x36022 ./Sources/bootloader.o
+                              0x3643d (size before relaxing)
+ .debug_str     0x00036022       0x82 ./Project_Settings/Startup_Code/system_MKL26Z4.o
+                              0x35a27 (size before relaxing)
+ .debug_str     0x000360a4       0x60 ./Driver/rs232/rs232.o
+                              0x360b6 (size before relaxing)
+ .debug_str     0x00036104      0x2a5 ./Driver/flash/flash_kinetis.o
+                              0x3631f (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 ./Sources/bootloader.o
