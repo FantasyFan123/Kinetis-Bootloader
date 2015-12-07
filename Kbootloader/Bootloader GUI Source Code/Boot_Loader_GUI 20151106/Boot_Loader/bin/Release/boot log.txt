@@ -1,0 +1,145 @@
+======================================================================
+Current time is 11/19/2015 11:00:55
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:01:28
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:02:25
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/19/2015 11:02:47
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/19/2015 11:08:39
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:09:20
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't erase block at address 0x4000
+Can't erase block at address 0x4000
+Can't program block at address 0x4000
+Can't erase block at address 0x4000
+Can't erase block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:10:25
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:13:08
+The s19 file is: F:\test\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Terminated!
+======================================================================
+Current time is 11/30/2015 18:05:43
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Error!
+Terminated!
+======================================================================
+Current time is 11/30/2015 18:06:58
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Terminated!
+======================================================================
+Current time is 11/30/2015 18:07:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Error!
+======================================================================
+Current time is 11/30/2015 18:07:33
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Terminated!
+======================================================================
+Current time is 11/30/2015 18:23:41
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Error!

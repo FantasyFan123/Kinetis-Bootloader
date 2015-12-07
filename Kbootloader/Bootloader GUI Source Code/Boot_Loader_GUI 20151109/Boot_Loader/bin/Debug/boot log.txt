@@ -1,0 +1,2285 @@
+======================================================================
+Current time is 7/2/2015 6:30:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 7/2/2015 6:50:00 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/2/2015 6:54:38 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/2/2015 7:01:30 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/2/2015 7:12:04 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/2/2015 7:17:37 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 7/6/2015 3:53:17 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 4:51:57 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 7/6/2015 4:55:54 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 7/6/2015 4:56:53 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 7/6/2015 5:00:22 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 5:03:07 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 5:07:16 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 5:19:12 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 5:24:01 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000000- 0x000000
+Success!
+======================================================================
+Current time is 7/6/2015 5:42:37 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 5:54:45 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+Terminated!
+======================================================================
+Current time is 7/6/2015 5:59:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/6/2015 6:18:25 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 6:31:03 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 7/6/2015 6:32:04 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/6/2015 6:33:04 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 6:33:35 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/6/2015 7:03:16 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/6/2015 7:04:25 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/6/2015 7:09:11 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/9/2015 3:18:01 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/9/2015 5:22:15 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader and GUI Beta 1.2.2\PT60_Bootloader 20130307\PT60_Bootloader\MC9S08PT60\PT60_Bootloader.abs.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x003200- 0x010000
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Can't erase block at address 0x3200
+Error!
+======================================================================
+Current time is 7/9/2015 7:31:29 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/9/2015 7:33:54 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/9/2015 7:50:12 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/9/2015 7:53:24 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/9/2015 7:54:56 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/9/2015 7:55:43 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/10/2015 6:04:09 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/10/2015 6:25:34 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/10/2015 6:35:01 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/10/2015 6:38:45 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/14/2015 7:13:29 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/14/2015 7:20:32 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/14/2015 8:27:46 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/14/2015 8:29:54 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/14/2015 9:29:26 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/14/2015 9:30:26 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/14/2015 9:34:11 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/14/2015 9:39:02 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2410
+Can't erase block at address 0x2410
+Can't program block at address 0x2410
+Can't erase block at address 0x2410
+Can't erase block at address 0x2410
+Error!
+======================================================================
+Current time is 7/14/2015 10:24:57 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2410
+Can't program block at address 0x2410
+Can't program block at address 0x2410
+Can't erase block at address 0x2410
+Can't program block at address 0x2410
+Error!
+======================================================================
+Current time is 7/15/2015 11:39:49 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 11:40:46 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 11:42:04 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 11:44:11 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/15/2015 11:45:02 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 3:03:18 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 3:10:10 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/15/2015 6:22:17 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/16/2015 5:42:08 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/16/2015 5:43:29 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/16/2015 6:12:18 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 7/17/2015 5:35:11 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/17/2015 5:37:49 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/17/2015 5:50:36 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+Terminated!
+======================================================================
+Current time is 7/17/2015 6:10:18 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Success!
+Terminated!
+======================================================================
+Current time is 7/17/2015 6:22:32 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2410
+Can't erase block at address 0x2410
+Success!
+Terminated!
+======================================================================
+Current time is 7/17/2015 7:13:58 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2410
+Can't erase block at address 0x2410
+Can't program block at address 0x2410
+Can't erase block at address 0x2410
+Can't program block at address 0x2410
+Error!
+======================================================================
+Current time is 7/17/2015 7:17:16 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't program block at address 0x2040
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 1:47:26 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 1:49:45 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2040
+Can't program block at address 0x2000
+Can't program block at address 0x2080
+Can't erase block at address 0x2000
+Error!
+Terminated!
+======================================================================
+Current time is 7/26/2015 1:58:40 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2040
+Can't erase block at address 0x2000
+Success!
+Terminated!
+======================================================================
+Current time is 7/26/2015 11:33:04 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 1:15:32 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't read block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 1:28:05 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 1:34:03 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/26/2015 2:18:03 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 7/27/2015 1:41:12 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x002000- 0x003A14
+Can't read block at address 0x2000
+Can't read block at address 0x2000
+Can't read block at address 0x2040
+Can't read block at address 0x2000
+Can't read block at address 0x2040
+Error!
+======================================================================
+Current time is 7/27/2015 1:44:17 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/27/2015 1:45:43 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150611\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003A14
+Can't erase block at address 0x2000
+Can't program block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Can't erase block at address 0x2000
+Error!
+======================================================================
+Current time is 7/30/2015 5:44:31 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 7/30/2015 5:46:45 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 5:48:02 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+Terminated!
+======================================================================
+Current time is 7/30/2015 5:48:26 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 7/30/2015 5:49:09 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Can't program block at address 0x2580
+Success!
+Terminated!
+======================================================================
+Current time is 7/30/2015 5:56:57 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:01:24 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:01:48 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:03:10 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:03:29 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:36:46 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:40:19 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:40:56 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_red_v.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x002000- 0x003AD8
+Success!
+======================================================================
+Current time is 7/30/2015 6:42:33 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150728\bootloader_user_app_green_v.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AD8
+Success!
+======================================================================
+Current time is 8/13/2015 5:18:59 PM
+The s19 file is: C:\Users\b08277\Desktop\bootloader_user_app.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003B34
+Success!
+======================================================================
+Current time is 8/13/2015 5:28:43 PM
+The s19 file is: C:\Users\b08277\Desktop\bootloader_user_app.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003B34
+Success!
+======================================================================
+Current time is 8/13/2015 5:29:04 PM
+The s19 file is: C:\Users\b08277\Desktop\bootloader_user_app.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00002000- 0x00003B34
+Success!
+======================================================================
+Current time is 8/28/2015 12:06:23 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_red.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 8/28/2015 12:07:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_red.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 8/28/2015 12:07:47 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 8/28/2015 12:09:08 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 8/28/2015 12:12:15 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 8/28/2015 12:14:05 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 8/28/2015 12:16:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 8/28/2015 12:19:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 9/1/2015 11:53:04 AM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\bootload 20150815\bootloader_user_app_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF8
+Success!
+======================================================================
+Current time is 9/1/2015 4:35:18 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_green_0901.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF4
+Success!
+======================================================================
+Current time is 9/1/2015 4:35:45 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00002000- 0x00003AF4
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:36:01 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF4
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:36:14 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF4
+Can't program block at address 0x00002D40
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:36:45 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003AF4
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:36:59 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00002000- 0x00003AF4
+Verification failed at address 0x000028C0, image: 0x0A, MCU: 0x00
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:37:06 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:37:12 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 9/1/2015 4:37:24 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootload 20150901\bootloader_user_app_red_0901.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 9/10/2015 6:19:40 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 9/10/2015 6:20:08 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 9/10/2015 6:21:26 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 9/10/2015 6:25:20 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 9/10/2015 6:25:44 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 9/10/2015 6:26:58 PM
+The s19 file is: C:\Users\b08277\Desktop\Bootload project\Bootloader20150910\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+Station 2 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 9/10/2015 6:27:37 PM
+The s19 file is: D:\user application file\bootloader_user_app_green_new.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003EEC
+Success!
+Station 2 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 9/10/2015 6:28:15 PM
+The s19 file is: D:\user application file\bootloader_user_app_green_new.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003EEC
+Success!
+Station 2 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 9/10/2015 6:29:00 PM
+The s19 file is: D:\user application file\bootloader_user_app_green_new.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00002000- 0x00003EEC
+Success!
+Station 2 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 9/10/2015 6:31:39 PM
+The s19 file is: D:\user application file\bootloader_user_app_red_new.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x00003EEC
+Success!
+======================================================================
+Current time is 9/10/2015 6:32:03 PM
+The s19 file is: D:\user application file\bootloader_user_app_red_new.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00002000- 0x00003EEC
+Success!
+======================================================================
+Current time is 9/21/2015 4:49:00 PM
+The s19 file is: C:\Users\b08277\Desktop\k22_led_app.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000019E0
+Verification failed at address 0x1080, image: 0x05, MCU: 0xFF
+Verification failed at address 0x1080, image: 0x05, MCU: 0xFF
+Verification failed at address 0x1080, image: 0x05, MCU: 0xFF
+Verification failed at address 0x1080, image: 0x05, MCU: 0xFF
+Verification failed at address 0x1080, image: 0x05, MCU: 0xFF
+Error!
+======================================================================
+Current time is 9/21/2015 4:49:54 PM
+The s19 file is: C:\Users\b08277\Desktop\k22_led_app.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 9/21/2015 4:50:38 PM
+The s19 file is: C:\Users\b08277\Desktop\k22_led_app.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000019E0
+Success!
+======================================================================
+Current time is 9/21/2015 4:50:47 PM
+The s19 file is: C:\Users\b08277\Desktop\k22_led_app.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000019E0
+Success!
+======================================================================
+Current time is 9/21/2015 4:51:02 PM
+The s19 file is: C:\Users\b08277\Desktop\k22_led_app.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000019E0
+Success!
+======================================================================
+Current time is 11/17/2015 16:38:42
+The s19 file is: C:\Users\B55335\123.kds\kinetis Bootloader-M4\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E0
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Terminated!
+======================================================================
+Current time is 11/19/2015 11:17:02
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:17:29
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't erase block at address 0x4000
+Can't erase block at address 0x4000
+Can't erase block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:17:50
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/19/2015 11:18:20
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't erase block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:18:39
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:19:03
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:19:24
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:19:48
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't erase block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:20:10
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/19/2015 11:20:38
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:20:59
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+Terminated!
+======================================================================
+Current time is 11/19/2015 11:21:20
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't erase block at address 0x4000
+Can't program block at address 0x4000
+Terminated!
+======================================================================
+Current time is 11/19/2015 11:21:32
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:21:54
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:22:15
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:22:38
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 11:22:59
+The s19 file is: C:\Users\B55335\Desktop\kinetis Bootloader-M41\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Can't program block at address 0x4000
+Error!
+======================================================================
+Current time is 11/19/2015 12:11:27
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 11/19/2015 12:11:50
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/19/2015 12:13:26
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 11/19/2015 12:14:05
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/19/2015 12:14:39
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/19/2015 12:15:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/25/2015 19:39:48
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:39:58
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:41:19
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:44:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:44:21
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:45:13
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:48:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:50:17
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/25/2015 19:50:46
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 10:49:51
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 10:50:53
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:02:27
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:06:16
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:07:21
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:14:31
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:15:00
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:16:04
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:17:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:22:03
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:22:44
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:23:09
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:30:59
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:32:08
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:32:59
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:33:15
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:33:54
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:34:34
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 14:35:15
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:35:54
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:37:52
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:41:50
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:42:25
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 14:43:51
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.bin
+Station 1 is trying to enter Boot mode 
+Relocated vectors address is not matched
+Programming Station 1
+prg_area: 0x00002000- 0x000037AC
+Success!
+======================================================================
+Current time is 11/26/2015 14:44:34
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.bin
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 11/26/2015 14:53:04
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.bin
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 11/26/2015 14:53:45
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.bin
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 14:55:04
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.bin
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027AC
+Success!
+======================================================================
+Current time is 11/26/2015 14:55:35
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:01:12
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:05:42
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Can't program block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Error!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:05:58
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.hex
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:06:55
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Can't program block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Can't erase block at address 0x00001000
+Error!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:21:44
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:22:19
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:28:17
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:29:42
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:30:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:30:20
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Verify mode 
+Verifying Station 1
+verify_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:36:56
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:38:30
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:52:46
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:54:43
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:55:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:55:45
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Verifying Station 1
+verify_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:58:09
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Terminated!
+======================================================================
+Current time is 11/26/2015 15:58:28
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 15:59:01
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:17:17
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:18:14
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:20:26
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 16:20:41
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 16:21:18
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:45:32
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:47:29
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:54:39
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 16:55:33
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Verify mode 
+Error 1 times!
+Error 2 times!
+Verifying Station 1
+verify_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 17:03:06
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 11/26/2015 17:03:27
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 17:08:47
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 11/26/2015 17:09:08
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\user_app_red_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 13:13:12
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 13:13:50
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 13:14:15
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 13:15:10
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 14:47:06
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 14:47:18
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 14:47:26
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 14:49:23
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Can't erase block at address 0x1000
+Can't erase block at address 0x1000
+Can't erase block at address 0x1000
+Can't erase block at address 0x1000
+Can't erase block at address 0x1000
+Error!
+======================================================================
+Current time is 12/3/2015 14:55:08
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 14:55:33
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 14:59:19
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 15:04:48
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 15:05:22
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 15:19:36
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 16:21:18
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 16:24:44
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 16:32:15
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 16:32:35
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 16:32:50
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 16:37:56
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for KL26\User Application Source Code\user_app_red_blink_kl26.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/3/2015 17:42:18
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Can't program block at address 0x00002000
+Can't erase block at address 0x00002000
+Can't program block at address 0x00002000
+Terminated!
+======================================================================
+Current time is 12/3/2015 17:43:29
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Success!
+======================================================================
+Current time is 12/3/2015 17:43:40
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_red_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Success!
+======================================================================
+Current time is 12/3/2015 18:03:53
+The s19 file is: C:\Users\B55335\Desktop\Kinetis-Bootloader-master\Kinetis Bootloader SW\Bootloader and Application for K22\User Application Source Code\k22_led_green_app_k22.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00002000- 0x000029E4
+Success!
+======================================================================
+Current time is 12/3/2015 19:50:16
+The s19 file is: E:\kinetis Bootloader-M4\user_app_green_blink_k22\Debug\k22_led_green_app.hex
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 19:50:30
+The s19 file is: E:\kinetis Bootloader-M4\user_app_green_blink_k22\Debug\k22_led_green_app.hex
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 19:50:45
+The s19 file is: E:\kinetis Bootloader-M4\user_app_green_blink_k22\Debug\k22_led_green_app.hex
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Error 2 times!
+Error 3 times!
+======================================================================
+Current time is 12/3/2015 19:52:04
+The s19 file is: E:\kinetis Bootloader-M4\user_app_green_blink_k22\Debug\k22_led_green_app.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:18:46
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:18:59
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:19:31
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:19:38
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.hex
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:20:07
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:20:27
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:20:57
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:21:43
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_green_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:21:57
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:22:38
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:22:55
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for K22\User Application Source Code\polling\k22_led_red_app.srec
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00004000- 0x000049E4
+Success!
+======================================================================
+Current time is 12/4/2015 18:24:08
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Error 1 times!
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:24:39
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\nobyte_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:25:30
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:25:51
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\nobyte_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:27:10
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x000003FC- 0x000003FC
+Success!
+======================================================================
+Current time is 12/4/2015 18:27:54
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\user_app_green_blink.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:28:35
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\nobyte_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:31:11
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\nobyte_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:31:35
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:33:32
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\nobyte_red.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
+======================================================================
+Current time is 12/4/2015 18:33:55
+The s19 file is: C:\Users\B55335\Desktop\Kbootloader\Bootloader and Application for KL26\User Application Source Code\no4byte_green.s19
+Station 1 is trying to enter Boot mode 
+Programming Station 1
+prg_area: 0x00001000- 0x000027B0
+Success!
