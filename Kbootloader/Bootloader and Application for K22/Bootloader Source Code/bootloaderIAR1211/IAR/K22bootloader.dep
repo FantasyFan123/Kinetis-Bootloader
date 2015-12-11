@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2526362842</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\Common\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cm4.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bootloader.o</file>
+      <file>$PROJ_DIR$\..\Common\MK22F51212.h</file>
+      <file>$PROJ_DIR$\..\Common\system_MK22F51212.h</file>
+      <file>$PROJ_DIR$\..\Driver\bootcfg\FRDM_K22F_cfg.h</file>
+      <file>$PROJ_DIR$\..\Driver\flash\flash_kinetis.c</file>
+      <file>$PROJ_DIR$\..\Driver\flash\flash_kinetis.h</file>
+      <file>$PROJ_DIR$\..\Driver\rs232\rs232.c</file>
+      <file>$PROJ_DIR$\..\Driver\rs232\rs232.h</file>
+      <file>$PROJ_DIR$\..\Sources\bootloader.c</file>
+      <file>$PROJ_DIR$\..\Sources\bootloader.h</file>
+      <file>$PROJ_DIR$\..\Startup_Code\startup_MK22F51212.S</file>
+      <file>$PROJ_DIR$\..\Startup_Code\system_MK22F51212.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs232.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\K22bootloader.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\rs232.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_MK22F51212.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bootloader.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_kinetis.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\K22bootloader.s19</file>
+      <file>$PROJ_DIR$\Debug\Obj\flash_kinetis.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\K22bootloader.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_MK22F51212.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_MK22F51212.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Driver\flash\flash_kinetis.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 1 34 32 30 7 5 33 3 9 29 6 16 17 31 0 35 2 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Driver\rs232\rs232.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 6 34 16 13 1 11 5 35 2 36 7 17 32 33 31 0 3 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Sources\bootloader.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Startup_Code\startup_MK22F51212.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Startup_Code\system_MK22F51212.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\K22bootloader.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
