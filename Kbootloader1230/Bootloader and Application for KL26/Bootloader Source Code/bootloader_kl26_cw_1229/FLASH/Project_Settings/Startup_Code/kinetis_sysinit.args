@@ -1,0 +1,22 @@
+-mcpu=cortex-m0
+-mthumb
+-mfloat-abi=soft
+-g3
+-gdwarf-2
+-gstrict-dwarf
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Project_Headers"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Sources"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Project_Settings/Startup_Code"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Project_Settings/Linker_Files"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Driver/bootcfg"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Driver/flash"
+-I"F:/Kbootloader/Bootloader and Application for KL26/Bootloader Source Code/bootloader_kl26_cw_1229/Driver/rs232"
+-I"C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/EWL_C/include"
+-I"C:/Freescale/CW MCU v10.6.4/MCU/ARM_GCC_Support/ewl/EWL_Runtime/include"
+-Os
+-ffunction-sections
+-fdata-sections
+-Wall
+-c
+-fmessage-length=0
+-specs=ewl_c_noio.specs
