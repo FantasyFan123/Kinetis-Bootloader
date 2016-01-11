@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>697593370</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cm4.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\..\MK22xX512_12.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_MK22F51212.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_MK22F51212.o</file>
+      <file>$PROJ_DIR$\..\Startup_Code\system_MK22F51212.c</file>
+      <file>$PROJ_DIR$\..\Sources\main.c</file>
+      <file>$PROJ_DIR$\..\Common\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bl_communication.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\user_app_green_k22_IAR.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\bl_communication.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_MK22F51212.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\..\Startup_Code\startup_MK22F51212.S</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\user_app_green_k22_IAR.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\Sources\bl_communication.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\user_app_green_k22_IAR.hex</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cmSimd.h</file>
+      <file>$PROJ_DIR$\..\Common\system_MK22F51212.h</file>
+      <file>$PROJ_DIR$\..\Common\MK22F51212.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cm4_simd.h</file>
+      <file>$PROJ_DIR$\..\Sources\bl_communication.h</file>
+      <file>$PROJ_DIR$\..\Common\core_cmInstr.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\Startup_Code\system_MK22F51212.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24 10 17 9 28 18 30 26 33 1 36 0 13 8 31 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32 24 17 28 30 10 0 9 18 8 33 26 1 36 31 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Sources\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33 24 10 17 9 28 18 30 26 1 36 0 13 8 31 32 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 18 24 32 31 35 1 17 30 28 10 36 13 33 26 8 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Startup_Code\startup_MK22F51212.S</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\user_app_green_k22_IAR.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 3 15 12 5 16 19 20 22 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Sources\bl_communication.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33 24 10 17 9 28 18 30 26 1 36 0 13 8 31 32 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 24 32 18 31 35 1 17 30 28 10 36 13 33 26 8 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
