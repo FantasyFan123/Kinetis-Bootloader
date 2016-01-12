@@ -303,7 +303,7 @@ __Vectors       DCD     __initial_sp  ; Top of Stack
                 DCD     DefaultISR  ; 252
                 DCD     DefaultISR  ; 253
                 DCD     DefaultISR  ; 254
-                DCD     0xFFFFFFFF                          ; Reserved for user TRIM value
+                DCD     DefaultISR  ; 255
 __Vectors_End
 
 __Vectors_Size 	EQU     __Vectors_End - __Vectors
@@ -320,14 +320,14 @@ __Vectors_Size 	EQU     __Vectors_End - __Vectors
 ;     <o5>  Backdoor Key 5  <0x0-0xFF:2>
 ;     <o6>  Backdoor Key 6  <0x0-0xFF:2>
 ;     <o7>  Backdoor Key 7  <0x0-0xFF:2>
-BackDoorK0      EQU     0x41
-BackDoorK1      EQU     0x50
-BackDoorK2      EQU     0x50
-BackDoorK3      EQU     0x5F
-BackDoorK4      EQU     0x4F
-BackDoorK5      EQU     0x4B
-BackDoorK6      EQU     0x00
-BackDoorK7      EQU     0x00
+BackDoorK0      EQU     0xFF
+BackDoorK1      EQU     0xFF
+BackDoorK2      EQU     0xFF
+BackDoorK3      EQU     0xFF
+BackDoorK4      EQU     0xFF
+BackDoorK5      EQU     0xFF
+BackDoorK6      EQU     0xFF
+BackDoorK7      EQU     0xFF
 ;   </h>
 ;   <h> Program flash protection bytes (FPROT)
 ;     <i> Each program flash region can be protected from program and erase operation by setting the associated PROT bit.
@@ -344,7 +344,7 @@ BackDoorK7      EQU     0x00
 ;       <o.6>   FPROT0.6
 ;       <o.7>   FPROT0.7
 nFPROT0         EQU     0x00
-FPROT0          EQU     nFPROT0:EOR:0x00
+FPROT0          EQU     nFPROT0:EOR:0xFF
 ;     </h>
 ;     <h> FPROT1
 ;       <i> Program Flash Region Protect Register 1
@@ -358,7 +358,7 @@ FPROT0          EQU     nFPROT0:EOR:0x00
 ;       <o.6>   FPROT1.6
 ;       <o.7>   FPROT1.7
 nFPROT1         EQU     0x00
-FPROT1          EQU     nFPROT1:EOR:0x00
+FPROT1          EQU     nFPROT1:EOR:0xFF
 ;     </h>
 ;     <h> FPROT2
 ;       <i> Program Flash Region Protect Register 2
@@ -372,7 +372,7 @@ FPROT1          EQU     nFPROT1:EOR:0x00
 ;       <o.6>   FPROT2.6
 ;       <o.7>   FPROT2.7
 nFPROT2         EQU     0x00
-FPROT2          EQU     nFPROT2:EOR:0x00
+FPROT2          EQU     nFPROT2:EOR:0xFF
 ;     </h>
 ;     <h> FPROT3
 ;       <i> Program Flash Region Protect Register 3
@@ -386,7 +386,7 @@ FPROT2          EQU     nFPROT2:EOR:0x00
 ;       <o.6>   FPROT3.6
 ;       <o.7>   FPROT3.7
 nFPROT3         EQU     0x00
-FPROT3          EQU     nFPROT3:EOR:0x00
+FPROT3          EQU     nFPROT3:EOR:0xFF
 ;     </h>
 ;   </h>
 ;   <h> Data flash protection byte (FDPROT)
@@ -401,7 +401,7 @@ FPROT3          EQU     nFPROT3:EOR:0x00
 ;     <o.6>   FDPROT.6
 ;     <o.7>   FDPROT.7
 nFDPROT         EQU     0x00
-FDPROT          EQU     nFDPROT:EOR:0x00
+FDPROT          EQU     nFDPROT:EOR:0xFF
 ;   </h>
 ;   <h> EEPROM protection byte (FEPROT)
 ;     <i> FlexNVM devices: Each bit protects a 1/8 region of the EEPROM.
@@ -415,7 +415,7 @@ FDPROT          EQU     nFDPROT:EOR:0x00
 ;     <o.6>   FEPROT.6
 ;     <o.7>   FEPROT.7
 nFEPROT         EQU     0x00
-FEPROT          EQU     nFEPROT:EOR:0x00
+FEPROT          EQU     nFEPROT:EOR:0xFF
 ;   </h>
 ;   <h> Flash nonvolatile option byte (FOPT)
 ;     <i> Allows the user to customize the operation of the MCU at boot time.
@@ -425,7 +425,7 @@ FEPROT          EQU     nFEPROT:EOR:0x00
 ;     <o.1>  EZPORT_DIS
 ;       <0=> EzPort operation is enabled
 ;       <1=> EzPort operation is disabled
-FOPT            EQU     0x00
+FOPT            EQU     0xFF
 ;   </h>
 ;   <h> Flash security byte (FSEC)
 ;     <i> WARNING: If SEC field is configured as "MCU security status is secure" and MEEN field is configured as "Mass erase is disabled",
@@ -450,28 +450,19 @@ FOPT            EQU     0x00
 ;       <3=> Backdoor key access disabled
 ;         <i> Backdoor key Security Enable
 ;         <i> These bits enable and disable backdoor key access to the FTFL module.
-FSEC            EQU     0x00
+FSEC            EQU     0xFE
 ;   </h>
 ; </h>
-;                IF      :LNOT::DEF:RAM_TARGET
-;                AREA    |.ARM.__at_0x400|, CODE, READONLY
-;                 DCB     BackDoorK0, BackDoorK1, BackDoorK2, BackDoorK3
-;                DCB     BackDoorK4, BackDoorK5, BackDoorK6, BackDoorK7
-;                 DCB     FPROT0,     FPROT1,     FPROT2,     FPROT3
-;                 DCB     FSEC,       FOPT,       FEPROT,     FDPROT
-;                ENDIF
-
-;                AREA    |.text|, CODE, READONLY
-
                 IF      :LNOT::DEF:RAM_TARGET
-                AREA    |.ARM.__at_0x4400|, CODE, READONLY
-                 DCB     BackDoorK0, BackDoorK1, BackDoorK2, BackDoorK3
-                 DCB     BackDoorK4, BackDoorK5, BackDoorK6, BackDoorK7
-                 DCB     FPROT0,     FPROT1,     FPROT2,     FPROT3
-                 DCB     FSEC,       FOPT,       FEPROT,     FDPROT
+;                AREA    |.ARM.__at_0x400|, CODE, READONLY
+;                DCB     BackDoorK0, BackDoorK1, BackDoorK2, BackDoorK3
+;                DCB     BackDoorK4, BackDoorK5, BackDoorK6, BackDoorK7
+;                DCB     FPROT0,     FPROT1,     FPROT2,     FPROT3
+;                DCB     FSEC,       FOPT,       FEPROT,     FDPROT
                 ENDIF
 
                 AREA    |.text|, CODE, READONLY
+
 ;init_data_bss
 ;     User defined function for data and bs memory segment initialization.
 ;      Weak definition to be replaced by user code.

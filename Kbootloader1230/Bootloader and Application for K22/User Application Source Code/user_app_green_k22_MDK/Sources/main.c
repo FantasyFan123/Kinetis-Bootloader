@@ -48,8 +48,6 @@
 #define GPIO_PIN_MASK            0x1Fu
 #define GPIO_PIN(x)              (((1)<<(x & GPIO_PIN_MASK)))
 
-__attribute__((at(RELOCATED_VECTORS + 0x400)))const Byte str_app_ok[16]	= "APP_OK";
-
 void flash_protect(void);
 void init_PIT(void);
 void UART1_RX_TX_IRQHandler(void);

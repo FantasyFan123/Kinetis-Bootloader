@@ -329,16 +329,16 @@ __vector_table_0x1c
         DCD     DefaultISR  ; 252
         DCD     DefaultISR  ; 253
         DCD     DefaultISR  ; 254
-        DCD     DefaultISR  ; 255
+        DCD     0xFFFFFFFF                          ; Reserved for user TRIM value
 __Vectors_End
 
         
-//__FlashConfig
-//      	DCD	0xFFFFFFFF
-//      	DCD	0xFFFFFFFF
-//      	DCD	0xFFFFFFFF
-//      	DCD	0xFFFFFBFE
-//__FlashConfig_End
+__FlashConfig
+      	DCD	0x4150505f                          ; define APP_OK
+      	DCD	0x4f4b0000
+      	DCD	0x00000000
+      	DCD	0x00000000
+__FlashConfig_End
 
 __Vectors       EQU   __vector_table
 __Vectors_Size 	EQU   __Vectors_End - __Vectors

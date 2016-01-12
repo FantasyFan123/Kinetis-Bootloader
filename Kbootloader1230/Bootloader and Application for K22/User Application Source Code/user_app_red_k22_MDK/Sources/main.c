@@ -33,6 +33,7 @@
 #include "bl_communication.h"
 
 #define RELOCATED_VECTORS          0x4000                            // Start address of relocated interrutp vector table
+// enable GPIO clock
 #define INIT_ALL_CPIO_CLK	SIM->SCGC5 |= SIM_SCGC5_PORTA_MASK|SIM_SCGC5_PORTE_MASK;
 
 
@@ -41,21 +42,20 @@
 	              	   PORTA->PCR[2]=(0|PORT_PCR_MUX(1));\
 	              	   PTA->PDDR  |= GPIO_PDDR_PDD( GPIO_PIN(1)  );\
 	              	   PTA->PDDR  |= GPIO_PDDR_PDD( GPIO_PIN(2)  );\
-	              	   PTA->PDOR |= GPIO_PDOR_PDO(GPIO_PIN(1));\
-	              	   PTA->PCOR |= GPIO_PCOR_PTCO(GPIO_PIN(2)); // clear the PTA1 pin
+	              	   PTA->PDOR |= GPIO_PDOR_PDO(GPIO_PIN(2));\
+	              	   PTA->PCOR |= GPIO_PCOR_PTCO(GPIO_PIN(1)); // clear the PTA1 pin
 
 #define GPIO_PIN_MASK            0x1Fu
 #define GPIO_PIN(x)              (((1)<<(x & GPIO_PIN_MASK)))
 
-//__root const Byte str_app_ok[16] @ (RELOCATED_VECTORS+0x400) = "APP_OK";
+__attribute__((at(RELOCATED_VECTORS+0x400))) const Byte str_app_ok[16] = "APP_OK";
 
-void flash_protect();
+void flash_protect(void);
 void init_PIT(void);
-void UART1_RX_TX_IRQHandler();
-
+void UART1_RX_TX_IRQHandler(void);
+void PIT0_IRQHandler(void);
 int main(void)
 {
-    
     EnableInterrupts;			// enable interrupt
     INIT_ALL_CPIO_CLK;
     flash_protect();           // protect the entire flash
@@ -67,12 +67,13 @@ int main(void)
     APP_LED_INIT;
     init_PIT();				   // init timer
     NVIC_EnableIRQ(PIT0_IRQn);       // enable PIT timer interrupt
+
     while(1)
     {
-        if(buff_index==7)
+    if(buff_index==7)
         {
-            buff_index = 0;
-            UpdateAPP();  // update user's application -- need add to the app of user's
+           buff_index = 0;
+           UpdateAPP();  // update user's application -- need add to the app of user's
         }
     }
     /* Never leave main */
@@ -107,10 +108,9 @@ void init_PIT(void)
 //-----------------------------------------------------------------------------
 void PIT0_IRQHandler(void)
 {
-    GPIOA_PTOR = 0x000000004;
-
-    PIT_TFLG0=0x01;
-    PIT_TCTRL0; //dummy read the PIT1 control reg to enable another interput
+	GPIOA_PTOR = 0x000000002;
+	PIT_TFLG0=0x01;
+	PIT_TCTRL0; //dummy read the PIT1 control reg to enable another interput
 }
 
 //-----------------------------------------------------------------------------
@@ -122,7 +122,7 @@ void PIT0_IRQHandler(void)
 //
 // RETURNS:     none
 //-----------------------------------------------------------------------------
-void flash_protect()
+void flash_protect(void)
 {
 	FTFA_FPROT0 = 0x00;
 	FTFA_FPROT1 = 0x00;
